@@ -4,7 +4,7 @@
 ## 🤗 About Me
 * 🔭  Study is on
 * 🌱  Love to learn and work on new languages and platforms
-* 😄  Love programming and reverse android app reverse engineering
+* 😄  Love programming and reverse android app  
 * ⚡  For big goal you must have small goals
 *  📫 How to reach me: Contact On Telegram [![Telegram](https://img.shields.io/badge/Telegram-8A2BE2)](https://t.me/jeelpatel0256)
 
