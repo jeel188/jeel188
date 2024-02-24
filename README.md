@@ -7,7 +7,7 @@
 * <span style="color: #008080;">🌱 Love learning and working on new languages and platforms</span>
 * <span style="color: #008080;">😄 Passionate about programming and reverse engineering Android apps</span>
 * <span style="color: #008080;">⚡ "For big goals, you must have small goals"</span>
-* <span style="color: #008080;">📫 How to reach me: Contact me on Telegram [![Telegram](https://img.shields.io/badge/Telegram-8A2BE2)](https://t.me/jeelpatel0256)</span>
+* <span style="color: #008080;">📫 How to reach me: Contact me on Telegram [![Telegram](https://img.shields.io/badge/Telegram-8A2BE2)](https://t.me/jeelpatel188)</span>
 
 <!-- Social Media Section -->
 ## 🌐 Socials
