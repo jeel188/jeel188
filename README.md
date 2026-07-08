@@ -11,7 +11,7 @@
 
 <!-- Social Media Section -->
 ## 🌐 Socials
-![](https://komarev.com/ghpvc/?username=jeel188&color=red&style=for-the-badge) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@ue4reversing793) [![GitHub jeel188](https://img.shields.io/github/followers/jeel188?label=follow&style=social)](https://github.com/jeel188)
+![](https://komarev.com/ghpvc/?username=jeel188&color=red&style=for-the-badge) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@ScriptedSkillsGaming) [![GitHub jeel188](https://img.shields.io/github/followers/jeel188?label=follow&style=social)](https://github.com/jeel188)
 
 
 
