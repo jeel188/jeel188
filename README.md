@@ -42,7 +42,7 @@ reach_me:  Telegram → @jeelpatel188
 
 </div>
 
-> ✏️ Edit the icon list above to match your own stack. Browse all icons at [skillicons.dev](https://skillicons.dev).
+##> ✏️ Edit the icon list above to match your own stack. Browse all icons at [skillicons.dev](https://skillicons.dev).
 
 ---
 
