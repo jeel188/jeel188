@@ -73,7 +73,7 @@ reach_me:  Telegram → @jeelpatel188
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=jeel188&theme=onedark&no-frame=true&no-bg=true&margin-w=8&column=7" alt="trophies" />
+<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-trophies.vercel.app/?username=jeel188&theme=onedark&no-frame=true&no-bg=true&margin-w=8&column=7" alt="trophies" /></a>
 
 </div>
 
