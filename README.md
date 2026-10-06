@@ -7,7 +7,7 @@
 <p>
   <img src="https://komarev.com/ghpvc/?username=jeel188&color=00d1ff&style=flat-square&label=PROFILE+VIEWS" alt="views" />
   <a href="https://github.com/jeel188"><img src="https://img.shields.io/github/followers/jeel188?style=flat-square&logo=github&label=Followers&color=203a43" alt="followers" /></a>
-  <a href="https://youtube.com/@ScriptedSkillsGaming"><img src="https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white" alt="youtube" /></a>
+  <a href="https://youtube.com/@godwingamingop"><img src="https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white" alt="youtube" /></a>
   <a href="https://t.me/jeelpatel188"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white" alt="telegram" /></a>
 </p>
 
@@ -30,7 +30,7 @@ reach_me:  Telegram → @jeelpatel188
 - 🔭 Currently studying and building my skills every day
 - 🌱 Love picking up new languages and platforms
 - 🔍 Passionate about programming and reverse engineering Android apps
-- 🎬 I share content on [Scripted Skills Gaming](https://youtube.com/@ScriptedSkillsGaming)
+- 🎬 I share content on [my YouTube channel](https://youtube.com/@godwingamingop)
 
 ---
 
@@ -42,7 +42,7 @@ reach_me:  Telegram → @jeelpatel188
 
 </div>
 
-##> ✏️ Edit the icon list above to match your own stack. Browse all icons at [skillicons.dev](https://skillicons.dev).
+
 
 ---
 
@@ -63,7 +63,7 @@ reach_me:  Telegram → @jeelpatel188
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=jeel188&theme=tokyo-night&hide_border=true&area=true" alt="activity graph" width="100%" />
+<img src="https://ghchart.rshah.org/00d1ff/jeel188" alt="Jeel's contribution graph" width="100%" />
 
 </div>
 
@@ -84,7 +84,7 @@ reach_me:  Telegram → @jeelpatel188
 <div align="center">
 
 <a href="https://t.me/jeelpatel188"><img src="https://img.shields.io/badge/Message_me_on_Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="telegram" /></a>
-<a href="https://youtube.com/@ScriptedSkillsGaming"><img src="https://img.shields.io/badge/Watch_on_YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="youtube" /></a>
+<a href="https://youtube.com/@godwingamingop"><img src="https://img.shields.io/badge/Watch_on_YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="youtube" /></a>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:2c5364,100:0f2027&section=footer" alt="footer" />
 
